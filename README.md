@@ -1,4 +1,3 @@
-# vibrate_calculate
 # Random Vibration & Fatigue Calculator (VRS / Dirlik)
 
 這是一個基於 Python Streamlit 的工程分析工具，專門用於隨機振動 (Random Vibration) 的分析。
